@@ -1,4 +1,4 @@
-# SERIAL-COMMUNICATION
+# EMBEDDED-SERIAL-COMMUNICATION
 In this tutorial , we will use three types of serial communication to interface with three peripherals:
 •	Use SPI to interface to an LCD display
 •	Use I2C to interface to a temperature sensor
